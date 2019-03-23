@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RPGCore:jar">
+    <output-path>$USER_HOME$/Desktop/jars/RPG/plugins</output-path>
+    <root id="archive" name="RPGCore.jar">
+      <element id="module-output" name="RPGCore" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/jars/HikariCP-2.4.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/jars/slf4j-api-1.7.16.jar" path-in-jar="/" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/resources/plugin.yml" />
+    </root>
+  </artifact>
+</component>
